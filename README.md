@@ -1,4 +1,4 @@
-# SilentNight
+# Enchanted Death
 
 **Scenario by:** [/r/mindcrack](https://www.reddit.com/r/mindcrack/)
 
