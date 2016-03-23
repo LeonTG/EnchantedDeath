@@ -1,0 +1,10 @@
+name: EnchantedDeath
+main: com.leontg77.enchanteddeath.Main
+version: 1.1
+author: LeonTG77
+description: You cannot craft enchantment tables, however if a player dies to PvP they will drop an enchantment table.
+
+commands:
+  enchanteddeath:
+    description: Enable, disable or view information about the scenario.
+    aliases: [ed, edeath]
